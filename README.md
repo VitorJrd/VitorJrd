@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a passionate fourth-year Computer Science & Engineering student, originally from Portugal and currently studying in France. I am dedicated to developing my skills as a software developer through personal projects, which I mostly keep private until I am satisfied with their quality and functionality. My primary language is Python. I really enjoy working with it, especially list comprehensions! I love exploring new technologies and concepts, and I believe that continuous learning is key to growth. 
 
-Despite several years of study, I see myself as a beginner still eager to improve, so I welcome any feedback or suggestions.<br>I'm interested in building and refining personal projects, deepening my understanding of algorithms and data structures, exploring new programming languages and frameworks, and I hope to contribute to open-source projects in the future. Feel free to connect or reach out if you'd like to collaborate or share knowledge!
+Despite several years of study, I see myself as a beginner still eager to improve, so I welcome any feedback or suggestions.<br>I'm interested in building and refining personal projects, exploring new programming languages and frameworks, and I hope to contribute to open-source projects in the future (whenever I have the time). Feel free to connect or reach out if you'd like to collaborate or share knowledge!
 
 
 ## 🌐 Socials:
